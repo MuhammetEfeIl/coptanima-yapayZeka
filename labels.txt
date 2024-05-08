@@ -1,0 +1,6 @@
+0 kagıt
+1 cam
+2 metal
+3 ambalaj
+4 plastik
+5 çöp
